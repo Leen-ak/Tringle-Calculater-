@@ -12,12 +12,25 @@ The purpose of this C++ console application is to assist engineers in the field 
   1. Input the triangle format and measurements:
       - Enter the format (SSS, SAS, ASA, SSA) followed by the relevant measurements.
       - Example: `SSS 5 6 7`
-
   2. View the calculated properties:
      - The application will display the calculated angles, perimeter, area, and type of triangle.
 
-  3. Exit the program:
-     -  Enter BYE, QUIT, or EXIT to close the application.
+
+  3. **Example of using**
+      - Example of SSS  
+      ![sss](https://github.com/user-attachments/assets/db8876be-a357-411c-b855-e908610a445f)
+      - Example of SAS  
+      ![sas](https://github.com/user-attachments/assets/616909f1-7024-4de0-875a-14eb09b21346)
+      - Example of ASA  
+      ![image](https://github.com/user-attachments/assets/06efb609-cabb-4608-8c6f-fe6e1a3cc915)
+      - Example of SSA  
+      ![ssa](https://github.com/user-attachments/assets/ebd1c451-bc89-45f5-a3bf-171949beb2b9)
+      - Example of Impossible  
+      ![impossible](https://github.com/user-attachments/assets/ba9085ef-7299-4a74-9da2-74369c267058)
+
+  4. Exit the program:
+     -  Enter BYE, QUIT, or EXIT to close the application.  
+     ![bye](https://github.com/user-attachments/assets/896f5723-9f5d-45cb-af20-a36c913fd1ce)
 
 ## Technologies Used
 1. **C++:** The core programming language used for developing the application.
